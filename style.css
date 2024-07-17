@@ -90,6 +90,10 @@ body {
     
 }
 
+#header .logo{
+    width: 40px;
+}
+
 #navbar {
     display: flex;
     align-items: center;
@@ -137,7 +141,7 @@ body {
 
 /* Home Page */
 #hero {
-    background-image: url(images/Flag.jpg);
+    background-image: url(pics/Rose.jpg);
     height: 90vh;
     width: 100%;
     background-size: cover;
